@@ -1,4 +1,5 @@
 # Kaggle: Early Stage Diabetes Prediction 
+![image](https://github.com/ngoclinhtran911/Projects/assets/165343651/d5a0b0d3-884a-41f7-b77d-410287addbbc)
 
 
 ## Summary of Project
